@@ -1,1 +1,1 @@
-HyperSkill first Java Project
+HyperSkill Java projects REPO
